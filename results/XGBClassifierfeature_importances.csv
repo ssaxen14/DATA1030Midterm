@@ -1,0 +1,41 @@
+Feature,"XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device=None, early_stopping_rounds=20,
+              enable_categorical=True, eval_metric='logloss',
+              feature_types=None, gamma=None, grow_policy=None,
+              importance_type=None, interaction_constraints=None,
+              learning_rate=None, max_bin=None, max_cat_threshold=None,
+              max_cat_to_onehot=None, max_delta_step=None, max_depth=None,
+              max_leaves=None, min_child_weight=None, missing=nan,
+              monotone_constraints=None, multi_strategy=None, n_estimators=None,
+              n_jobs=None, num_parallel_tree=None, random_state=42, ...) Perturbation Importance","XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device=None, early_stopping_rounds=20,
+              enable_categorical=True, eval_metric='logloss',
+              feature_types=None, gamma=None, grow_policy=None,
+              importance_type=None, interaction_constraints=None,
+              learning_rate=None, max_bin=None, max_cat_threshold=None,
+              max_cat_to_onehot=None, max_delta_step=None, max_depth=None,
+              max_leaves=None, min_child_weight=None, missing=nan,
+              monotone_constraints=None, multi_strategy=None, n_estimators=None,
+              n_jobs=None, num_parallel_tree=None, random_state=42, ...) Feature Importance"
+onehot_scaled__ad_position_Bottom,0.00327357479594384,0.053607687
+onehot_scaled__ad_position_Side,0.0022191191389175414,0.066028595
+onehot_scaled__ad_position_Top,0.0023518469913129,0.060917504
+onehot_scaled__ad_position_Unknown,0.0005818912199297588,0.022889933
+onehot_scaled__browsing_history_Education,0.0026880914626087548,0.07619952
+onehot_scaled__browsing_history_Entertainment,0.0005784334783475343,0.06521241
+onehot_scaled__browsing_history_News,0.002010154992889701,0.04633995
+onehot_scaled__browsing_history_Shopping,0.0011010101905477964,0.051729754
+onehot_scaled__browsing_history_Social Media,0.002269645102336204,0.04537838
+onehot_scaled__browsing_history_Unknown,0.0009044488498399339,0.044625703
+onehot_scaled__device_type_Desktop,0.0006879192169518932,0.054790232
+onehot_scaled__device_type_Mobile,0.0021288202259858837,0.063126296
+onehot_scaled__device_type_Tablet,0.00017505901628445673,0.044802383
+onehot_scaled__device_type_Unknown,-0.0002014823030069668,0.0100975465
+onehot_scaled__gender_Female,0.0030652277789621927,0.038200155
+onehot_scaled__gender_Male,0.000927214992913028,0.061581578
+onehot_scaled__gender_Non-Binary,0.0008374659682390706,0.045298375
+onehot_scaled__gender_Unknown,0.0005133893869605999,0.04724066
+ordinal_scaled__time_of_day,0.003065048592153519,0.047779363
+scaler__age,0.03216854690266129,0.05415397

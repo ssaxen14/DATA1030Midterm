@@ -1,0 +1,21 @@
+Feature,DecisionTreeClassifier(random_state=42) Perturbation Importance,DecisionTreeClassifier(random_state=42) Feature Importance
+onehot_scaled__ad_position_Bottom,0.0,0.04467052717327967
+onehot_scaled__ad_position_Side,0.0,0.0
+onehot_scaled__ad_position_Top,0.0,0.0
+onehot_scaled__ad_position_Unknown,0.0,0.0
+onehot_scaled__browsing_history_Education,0.0,0.0
+onehot_scaled__browsing_history_Entertainment,0.0,0.0
+onehot_scaled__browsing_history_News,0.0,0.0
+onehot_scaled__browsing_history_Shopping,0.0,0.0
+onehot_scaled__browsing_history_Social Media,0.00012837647740238656,0.029306479066053034
+onehot_scaled__browsing_history_Unknown,4.829677250394182e-05,0.00848455692970756
+onehot_scaled__device_type_Desktop,0.0,0.0
+onehot_scaled__device_type_Mobile,0.0,0.0
+onehot_scaled__device_type_Tablet,0.0,0.0016161060818490637
+onehot_scaled__device_type_Unknown,0.0,0.0
+onehot_scaled__gender_Female,-2.4766103596002287e-05,0.005454358026240579
+onehot_scaled__gender_Male,0.0,0.0
+onehot_scaled__gender_Non-Binary,0.0,0.0
+onehot_scaled__gender_Unknown,0.0,0.0
+ordinal_scaled__time_of_day,0.0,0.0
+scaler__age,0.003281958972643695,0.9104679727228702

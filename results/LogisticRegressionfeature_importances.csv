@@ -1,0 +1,21 @@
+Feature,"LogisticRegression(max_iter=3000, random_state=42) Perturbation Importance","LogisticRegression(max_iter=3000, random_state=42) Feature Importance"
+onehot_scaled__ad_position_Bottom,0.0,0.047761880693704906
+onehot_scaled__ad_position_Side,0.0,-0.018985484577399875
+onehot_scaled__ad_position_Top,0.0,-0.018401715266274998
+onehot_scaled__ad_position_Unknown,0.0,-0.010343550858531133
+onehot_scaled__browsing_history_Education,0.0,-0.012558827060840968
+onehot_scaled__browsing_history_Entertainment,0.0,0.01877161816249622
+onehot_scaled__browsing_history_News,0.0,-0.023553784171962175
+onehot_scaled__browsing_history_Shopping,0.0,0.005659899012426729
+onehot_scaled__browsing_history_Social Media,0.0,-0.009763084066902454
+onehot_scaled__browsing_history_Unknown,0.0,0.02147530811628153
+onehot_scaled__device_type_Desktop,0.0,0.016848527628085187
+onehot_scaled__device_type_Mobile,0.0,-0.023486315941716907
+onehot_scaled__device_type_Tablet,0.0,0.001707595517478524
+onehot_scaled__device_type_Unknown,0.0,0.004961322787652134
+onehot_scaled__gender_Female,0.0,0.010434301428443081
+onehot_scaled__gender_Male,0.0,0.0058695771909024665
+onehot_scaled__gender_Non-Binary,0.0,-0.014825139173250694
+onehot_scaled__gender_Unknown,0.0,-0.0014476094545959593
+ordinal_scaled__time_of_day,0.0,-0.034094303332443704
+scaler__age,0.0,-0.060324100368349454

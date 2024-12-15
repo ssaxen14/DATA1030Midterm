@@ -1,0 +1,21 @@
+Feature,RandomForestClassifier(random_state=42) Perturbation Importance,RandomForestClassifier(random_state=42) Feature Importance
+onehot_scaled__ad_position_Bottom,0.00010299668134349793,0.06092045571541578
+onehot_scaled__ad_position_Side,1.2157191166473069e-05,0.012667989327127389
+onehot_scaled__ad_position_Top,0.00012672640427673909,0.01288725005726991
+onehot_scaled__ad_position_Unknown,-1.847346885514578e-05,0.010800372292603222
+onehot_scaled__browsing_history_Education,0.0,0.00458221373029893
+onehot_scaled__browsing_history_Entertainment,0.0,0.0025
+onehot_scaled__browsing_history_News,0.0,0.027417563110366347
+onehot_scaled__browsing_history_Shopping,4.811041365718749e-05,0.001828690623874859
+onehot_scaled__browsing_history_Social Media,0.00018450418273900372,0.020814837181424035
+onehot_scaled__browsing_history_Unknown,5.550237831074556e-05,0.018445274373167557
+onehot_scaled__device_type_Desktop,0.0,0.0008101957075958314
+onehot_scaled__device_type_Mobile,4.8628764665892274e-05,0.022355579703595606
+onehot_scaled__device_type_Tablet,0.0,0.007958034037473333
+onehot_scaled__device_type_Unknown,0.0,0.0004518158310034663
+onehot_scaled__gender_Female,0.0,0.004937243568023717
+onehot_scaled__gender_Male,0.0,0.0014828586894501327
+onehot_scaled__gender_Non-Binary,0.0,0.015401160525775934
+onehot_scaled__gender_Unknown,0.0,0.002131850353228269
+ordinal_scaled__time_of_day,0.0002180771171897744,0.06101100103746131
+scaler__age,0.0056254425553103615,0.7105956141348444
